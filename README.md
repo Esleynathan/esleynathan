@@ -25,6 +25,12 @@ href='https://github.com/Esleynathan/'
 target="_blank">
 <img src='https://skillicons.dev/icons?i=github'
   </a>
+  
+  <a
+href='https://www.linkedin.com/in/esley-barbosa-018188115/'
+target="_blank">
+<img src='https://skillicons.dev/icons?i=linkedin'
+  </a>
 </p>
  
 </p>
