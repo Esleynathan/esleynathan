@@ -7,7 +7,7 @@
 <h4 align="center">Linguagens / Tecnologias</h4>
 <p align="center">
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=python,angular,html,css,js,jbootstrap,mysql'/>
+    <img src='https://skillicons.dev/icons?i=python,angular,ts,html,css,js,bootstrap,mysql'/>
   </a>
   
 <h5 align="center">Programas</h4>
