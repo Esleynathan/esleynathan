@@ -2,7 +2,7 @@
 
 - 👨‍💻 I'm Ésley
 - 🎮 I'm student to Computer Engineer - UNICARIOCA
-- 📠 I'm Develop Full Stack Python - Django
+- 📠 I'm Developer Full Stack Python - Django
 
 <h4 align="center">Linguagens / Tecnologias</h4>
 <p align="center">
